@@ -1,6 +1,6 @@
 import "./Header.css";
 import Pic from "../images/prof.jpg";
-const email = document.querySelector(".link-btn");
+
 
 function Header(props) {
   function clickemail() {
