@@ -15,7 +15,7 @@ function Header(props) {
     <div className="top-header">
       <img src={Pic} className="profpic" alt="pic"></img>
       <div className="details">
-        <h3>Vilas Mathpati</h3>
+        <h3>Vilas Revansiddhayya Mathpati</h3>
         <p className="first-para">Frontend Developer</p>
         <p className="second-para">Atechy Technologies,dubai</p>
       </div>
