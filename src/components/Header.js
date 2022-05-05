@@ -17,7 +17,7 @@ function Header(props) {
       <div className="details">
         <h3>Vilas Mathpati</h3>
         <p className="first-para">Frontend Developer</p>
-        <p className="second-para">Atechy Technologies</p>
+        <p className="second-para">Atechy Technologies,dubai</p>
       </div>
       <div className="btn-container">
         <button
